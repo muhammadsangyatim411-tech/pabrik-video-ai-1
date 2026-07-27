@@ -1,0 +1,4 @@
+google-generativeai 
+edge-tts 
+ffmpeg-python 
+python-dotenv
